@@ -1,0 +1,1 @@
+Practised building some backend API's for renting any product online. Used node.js for doing so and tested all the API's using Postman. Also used Joi module for validating user input and added contraints as well on the user's input as well.
